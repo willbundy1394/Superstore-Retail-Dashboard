@@ -30,7 +30,8 @@ The data comes from a file called “Store Dataset for Project.xlsx” that was 
 •	I created Parameters such as Category Parameter, Discount Rate %, Select Current Year and Region by Region Manager
 ### Part 3: Descriptive, Diagnostic, Predictive & Prescriptive Analytics
 ### Chart 1: KPI Card - Total Yearly Sales
- 
+ <img width="432" height="266" alt="image" src="https://github.com/user-attachments/assets/285b5604-2488-433e-ac89-f4968873f430" />
+
 ### Insights: 
 The dual line chart shows that 2023 Current Year (CY) sales (blue line) finished the year at $732K, a solid 19.9% increase over Previous Year (PY) sales (grey line). 
 ### Why It Matters: 
@@ -39,7 +40,7 @@ The 19.9% sales jump in 2023 looks great, but almost all of it came from bigger 
 While CY sales were volatile month to month with big spikes in the middle of the year and a huge peak toward the end. Overall, the trend ended strongly upward compared to the much flatter and gradually declining PY performance
 
 ### Chart 2: KPI Card - Total Yearly Profit
-<img width="432" height="266" alt="image" src="https://github.com/user-attachments/assets/236b0606-443f-41fb-8d5b-00a96fc80b42" />
+<img width="432" height="264" alt="image" src="https://github.com/user-attachments/assets/f47284c7-5b6b-4d10-b113-9d923aa925c4" />
 
 ### Insights: 
 The dual line chart shows that 2023 Current Year profit ended at $94K, a solid 14.9% jump over Previous Year. 
@@ -49,7 +50,8 @@ Profit grew 14.9% to $94K, but the 2023 monthly profit line is a rollercoaster c
 The blue CY line is super erratic with huge peaks and deep drops every couple month, while the gray PY line just gently drifts downward the whole year, so we made more money overall, but monthly profits were way less stable than last year.
 
 ### Chart 3: KPI Card - Total Yearly Quantity Sold 
- 
+<img width="432" height="266" alt="image" src="https://github.com/user-attachments/assets/334612ed-9121-49dc-b0bb-b90a2060b87e" />
+
 ### Insights: 
 The dual line chart shows total quantity sold in 2023 came in at 12K units, a nice 25.6% increase over Previous Year. 
 ### Why it Matters: 
@@ -60,7 +62,8 @@ The blue CY line shows way more dramatic ups and downs throughout the year (big 
 
 
 ### Chart 4: Pareto Chart
- 
+<img width="432" height="265" alt="image" src="https://github.com/user-attachments/assets/6c97c51c-39c0-4e9b-b252-ab2b577ccc3a" />
+
 ### Insights: 
 This Pareto chart proves the 80/20 rule is basically alive and well. Just the top four subcategories (Phones, Chairs, Storage, and Tables) make up over 80% of total sales, with Phones and Chairs alone at almost $600K combined.
 ### Why This Matters: 
@@ -73,7 +76,8 @@ Everything after Tables drops off hard, so if we want to boost revenue fast, we 
 
 
 ### Chart 5: Dual Chart vs. Total Profit
- 
+<img width="432" height="264" alt="image" src="https://github.com/user-attachments/assets/b2cf53bd-b009-4290-84f1-74145ae3a786" />
+
 ### Insights: 
 This dual axis chart shows monthly sales (blue) and profit (green) from 2020 through early 2023, and honestly sales are a rollercoaster with huge spikes and crashes every year while profit stays way more relaxed and basically flat the whole time.
 ### Why This Matters: 
@@ -85,7 +89,8 @@ Even when sales jump to $120K in a month, profit barely moves above $20K, so it 
 
 
 ### Chart 6: Order Segmentation Chart
- 
+<img width="432" height="265" alt="image" src="https://github.com/user-attachments/assets/ac78de42-0ac1-4ada-9d04-11d5af0d077c" />
+
 ### Insights: 
 This scatter plot segments every order by price per item and total profit, and it’s obvious we have three clear clusters Circle/Square/Addition Symbol. A large red/green cluster on the left with tons of low-price orders that make very minimal profits/losses, a green cloud in the middle making decent profit on mid-price stuff, and then a thin trail of high price orders on the right that mostly break even or barely win.
 ### Why This Matters: 
@@ -96,6 +101,7 @@ Basically, selling a bunch of cheap items is killing our margins, while the expe
 
 
 ### Chart 7: Profit and Sales Distribution Across the States
+<img width="432" height="254" alt="image" src="https://github.com/user-attachments/assets/5d965a6c-34c5-4c1c-97d2-5bc0abff380c" />
  
 ### Insights: 
 Okay, so looking at this map, it’s super obvious that almost all the money is coming from just California ($458k) and New York ($311k). Those two alone are crushing it while every other state is basically pocket change. Texas is third with $170k, then there’s a bunch of other states in the $50k–$139k range, but most of the country is either barely breaking even or losing money (all those red/pink states).
@@ -107,53 +113,76 @@ Either we figure out how to make money there or just stop wasting time and money
 
 
 ### Chart 8: Tree map
+<img width="432" height="266" alt="image" src="https://github.com/user-attachments/assets/3085c448-bb6e-4197-ba58-d40e3ab4a57d" />
  
-Insights: The tree map shows extreme profit concentration: Labels (44.4%), Envelopes (42.3%), Paper (43.4%), and Copiers (37.2%) together drive virtually 100% of company profit. The remaining 13 categories are essentially profit-neutral or negative, with Tables (-8.6%), Bookcases (-3.0%), and Supplies (-2.5%) being the clearest underperformers.
-Why This Matters: The whole company is living off four products while dragging around a ton of dead weight that eats inventory, warehouse space, and sales effort for zero profit. 
-Business Interpretation: Smart move would be to consider exiting furniture and supplies entirely. Keep treating all 17 categories as equals and we are voluntarily losing profit every day. 
+### Insights: 
+The tree map shows extreme profit concentration: Labels (44.4%), Envelopes (42.3%), Paper (43.4%), and Copiers (37.2%) together drive virtually 100% of company profit. The remaining 13 categories are essentially profit-neutral or negative, with Tables (-8.6%), Bookcases (-3.0%), and Supplies (-2.5%) being the clearest underperformers.
+### Why This Matters: 
+The whole company is living off four products while dragging around a ton of dead weight that eats inventory, warehouse space, and sales effort for zero profit. 
+### Business Interpretation: 
+Smart move would be to consider exiting furniture and supplies entirely. Keep treating all 17 categories as equals and we are voluntarily losing profit every day. 
 
 
 
 ### Predictive & What-If Analysis:
 ### Chart 9: Sales & Profit Distribution Across the Product Categories & Sub-Categories
+<img width="432" height="265" alt="image" src="https://github.com/user-attachments/assets/9808332c-f1a7-424a-b3f8-dd0df19f21c9" />
  
-Insights: This chart shows the distribution across the product categories and sub-categories as a Drill Down chart. It shows that technology is the leading bread winner where furniture is the loser in this scenario. In the right corner you can use the parameter to see each sub-category and where profit and loss occur. 
-Why this Matters: We’re leaving massive money on the table by letting a high-volume category like Furniture destroy margins while Technology carries the profits; treating all three categories equally in pricing, promotions, and sales incentives is costing us heavily
-Business Interpretation: Even though Furniture brings in solid sales too, its darker red color shows it has the lowest profit contribution of the three categories. We need to stop treating all categories the same, furniture needs urgent attention. This gives us an opportunity to re-evaluate prices for the future. 
+### Insights: 
+This chart shows the distribution across the product categories and sub-categories as a Drill Down chart. It shows that technology is the leading bread winner where furniture is the loser in this scenario. In the right corner you can use the parameter to see each sub-category and where profit and loss occur. 
+### Why this Matters: 
+We’re leaving massive money on the table by letting a high-volume category like Furniture destroy margins while Technology carries the profits; treating all three categories equally in pricing, promotions, and sales incentives is costing us heavily
+### Business Interpretation: 
+Even though Furniture brings in solid sales too, its darker red color shows it has the lowest profit contribution of the three categories. We need to stop treating all categories the same, furniture needs urgent attention. This gives us an opportunity to re-evaluate prices for the future. 
 
 ### Chart 10: Sales Forecast
+<img width="432" height="264" alt="image" src="https://github.com/user-attachments/assets/f42cbc8c-a00d-4622-b282-db038e1402fa" />
+<img width="432" height="221" alt="image" src="https://github.com/user-attachments/assets/e002bee7-c6bd-48bb-ab06-dc99d32d422c" />
+<img width="432" height="226" alt="image" src="https://github.com/user-attachments/assets/18ed8f84-37ec-4efa-915f-e07b24ee1e67" />
+
  
  
- 
-Interpretation: The 2024 forecast shows almost zero growth (+0.7% trend) and the same huge holiday spike every November/December, with sales crashing right after. The 99% confidence band is massive. MASE is 0.32 anything under 1.0 means the forecast beats a simple “same as last year” guess by a lot. This model is solid and captures the crazy seasonality well.
-Why It Matters: One bad holiday season tanks the whole year, there’s nothing else propping up sales. The wide band means we must plan inventory and load up big for Q4, stay super lean the rest of the year.
-Business Interpretation: We’re a seasonal business pretending to be year-round. Treat Q4 like life or death, cut costs in the off season, and stop lying to ourselves about steady growth because we don’t have. The $121K monthly target isn’t happening without a real plan.
+### Interpretation: 
+The 2024 forecast shows almost zero growth (+0.7% trend) and the same huge holiday spike every November/December, with sales crashing right after. The 99% confidence band is massive. MASE is 0.32 anything under 1.0 means the forecast beats a simple “same as last year” guess by a lot. This model is solid and captures the crazy seasonality well.
+### Why It Matters: 
+One bad holiday season tanks the whole year, there’s nothing else propping up sales. The wide band means we must plan inventory and load up big for Q4, stay super lean the rest of the year.
+### Business Interpretation: 
+We’re a seasonal business pretending to be year-round. Treat Q4 like life or death, cut costs in the off season, and stop lying to ourselves about steady growth because we don’t have. The $121K monthly target isn’t happening without a real plan.
 
 
 
 
 ### Chart 11: What If Scenario Analysis – Prescriptive Analytics
- 
-Insights: This chart shows a what if scenario if we added a discount to our categories. Eliminating all discounts adds $30K - $50K profit in Copiers, Phones, Accessories, Paper and Binders, flips Tables from loss to break even, and barely moves already high margin items like Labels/Envelopes.
-Why This Matters: Discounting would destroy over $200K in potential profit annually, concentrated in just the top 6–7 categories. Not having discounts on Copiers, Phones, Accessories, Paper, and Binders alone would deliver a massive profit boost with zero additional sales volume required.
-Business Interpretation: These categories are price sensitive and should be carefully monitored during promotions.
+<img width="432" height="265" alt="image" src="https://github.com/user-attachments/assets/abb2f254-5a7b-466b-8759-fa9885269210" />
+
+### Insights: 
+This chart shows a what if scenario if we added a discount to our categories. Eliminating all discounts adds $30K - $50K profit in Copiers, Phones, Accessories, Paper and Binders, flips Tables from loss to break even, and barely moves already high margin items like Labels/Envelopes.
+### Why This Matters: 
+Discounting would destroy over $200K in potential profit annually, concentrated in just the top 6–7 categories. Not having discounts on Copiers, Phones, Accessories, Paper, and Binders alone would deliver a massive profit boost with zero additional sales volume required.
+### Business Interpretation: 
+These categories are price sensitive and should be carefully monitored during promotions.
 Part 4: Dashboard Overview
  
  
 I built the dashboard in two pages
 ### Page 1 – Performance
+<img width="432" height="260" alt="image" src="https://github.com/user-attachments/assets/1eb230e0-4ec2-41b3-8d78-bee25e823c6e" />
+
 •	Top-line KPIs: $732K sales (+20% YoY), $94K profit (+15%), units +25%
 •	Big forecast chart with the Q4 spike
 •	Dual axis sales vs. profit chart so you can see they track together
 
 ### Page 2 – The Real Problems
+<img width="432" height="259" alt="image" src="https://github.com/user-attachments/assets/b109258f-f149-48a6-8e5e-d5a6813487d3" />
+
 •	Profit tree map: only Copiers, Paper, Accessories, and Phones make real money
 •	Pareto: 4-5 products carry basically the whole company
 •	What if analysis chart: we would be throwing away $200K + a year on discounts
 •	U.S. map: California and New York make up most of the profit, the rest of the country barely breaks even
 •	Order Segmentation: most orders are small and make almost nothing
 Red = bad, green = good, everything has region/category filters. The flow is simple: Page 1 shows we grew, Page 2 shows we’re still fragile and one bad move can destroy the company.
-Part 5: Project Conclusions
+
+### Part 5: Project Conclusions
 ### Key Findings:
 1.	80% of profit = 4 products and 2 states 
 2.	Furniture & Supplies lose money every year
