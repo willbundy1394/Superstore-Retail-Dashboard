@@ -40,6 +40,7 @@ While CY sales were volatile month to month with big spikes in the middle of the
 
 ### Chart 2: KPI Card - Total Yearly Profit
 <img width="432" height="266" alt="image" src="https://github.com/user-attachments/assets/236b0606-443f-41fb-8d5b-00a96fc80b42" />
+
 ### Insights: 
 The dual line chart shows that 2023 Current Year profit ended at $94K, a solid 14.9% jump over Previous Year. 
 ### Why It Matters: 
