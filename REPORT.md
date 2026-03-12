@@ -39,7 +39,7 @@ The 19.9% sales jump in 2023 looks great, but almost all of it came from bigger 
 While CY sales were volatile month to month with big spikes in the middle of the year and a huge peak toward the end. Overall, the trend ended strongly upward compared to the much flatter and gradually declining PY performance
 
 ### Chart 2: KPI Card - Total Yearly Profit
- 
+<img width="432" height="266" alt="image" src="https://github.com/user-attachments/assets/236b0606-443f-41fb-8d5b-00a96fc80b42" />
 ### Insights: 
 The dual line chart shows that 2023 Current Year profit ended at $94K, a solid 14.9% jump over Previous Year. 
 ### Why It Matters: 
@@ -49,17 +49,23 @@ The blue CY line is super erratic with huge peaks and deep drops every couple mo
 
 ### Chart 3: KPI Card - Total Yearly Quantity Sold 
  
-Insights: The dual line chart shows total quantity sold in 2023 came in at 12K units, a nice 25.6% increase over Previous Year. 
-Why it Matters: We moved 25.6% more units in 2023, but volume was uneven with huge spikes and deep drops vs. last year’s flat line. This means higher fulfillment costs, bigger inventory swings, and zero predictable base load, everything still comes down to a couple peak months.
-Business Interpretation: The blue CY line shows way more dramatic ups and downs throughout the year (big spikes mid-year and late year) while the grey PY line stays flat and slightly declining, so we moved a lot more product this year, but volume was super inconsistent month to month. We should focus on trying to figure out how we can sell units year-round or else one bad month could really put us in a hole. 
+### Insights: 
+The dual line chart shows total quantity sold in 2023 came in at 12K units, a nice 25.6% increase over Previous Year. 
+### Why it Matters: 
+We moved 25.6% more units in 2023, but volume was uneven with huge spikes and deep drops vs. last year’s flat line. This means higher fulfillment costs, bigger inventory swings, and zero predictable base load, everything still comes down to a couple peak months.
+### Business Interpretation: 
+The blue CY line shows way more dramatic ups and downs throughout the year (big spikes mid-year and late year) while the grey PY line stays flat and slightly declining, so we moved a lot more product this year, but volume was super inconsistent month to month. We should focus on trying to figure out how we can sell units year-round or else one bad month could really put us in a hole. 
 
 
 
 ### Chart 4: Pareto Chart
  
-Insights: This Pareto chart proves the 80/20 rule is basically alive and well. Just the top four subcategories (Phones, Chairs, Storage, and Tables) make up over 80% of total sales, with Phones and Chairs alone at almost $600K combined.
-Why This Matters: Revenue growth will come almost exclusively from these four any resources spent on the rest are largely wasted.
-Business Interpretation: Everything after Tables drops off hard, so if we want to boost revenue fast, we should probably just pay more attention to those big four and not sweat the tiny stuff like labels and fasteners.
+### Insights: 
+This Pareto chart proves the 80/20 rule is basically alive and well. Just the top four subcategories (Phones, Chairs, Storage, and Tables) make up over 80% of total sales, with Phones and Chairs alone at almost $600K combined.
+### Why This Matters: 
+Revenue growth will come almost exclusively from these four any resources spent on the rest are largely wasted.
+### Business Interpretation: 
+Everything after Tables drops off hard, so if we want to boost revenue fast, we should probably just pay more attention to those big four and not sweat the tiny stuff like labels and fasteners.
 
 
 
@@ -67,26 +73,35 @@ Business Interpretation: Everything after Tables drops off hard, so if we want t
 
 ### Chart 5: Dual Chart vs. Total Profit
  
-Insights: This dual axis chart shows monthly sales (blue) and profit (green) from 2020 through early 2023, and honestly sales are a rollercoaster with huge spikes and crashes every year while profit stays way more relaxed and basically flat the whole time.
-Why This Matters: Sales swing quite a bit, profit barely moves, even $120K months only yield around $20K profit. Most extra volume is low to no margin, more revenue without pricing fixes just adds cost, not profit.
-Business Interpretation: Even when sales jump to $120K in a month, profit barely moves above $20K, so it looks like higher revenue isn’t really translating into much extra profit.
+### Insights: 
+This dual axis chart shows monthly sales (blue) and profit (green) from 2020 through early 2023, and honestly sales are a rollercoaster with huge spikes and crashes every year while profit stays way more relaxed and basically flat the whole time.
+### Why This Matters: 
+Sales swing quite a bit, profit barely moves, even $120K months only yield around $20K profit. Most extra volume is low to no margin, more revenue without pricing fixes just adds cost, not profit.
+### Business Interpretation: 
+Even when sales jump to $120K in a month, profit barely moves above $20K, so it looks like higher revenue isn’t really translating into much extra profit.
 
 
 
 
 ### Chart 6: Order Segmentation Chart
  
-Insights: This scatter plot segments every order by price per item and total profit, and it’s obvious we have three clear clusters Circle/Square/Addition Symbol. A large red/green cluster on the left with tons of low-price orders that make very minimal profits/losses, a green cloud in the middle making decent profit on mid-price stuff, and then a thin trail of high price orders on the right that mostly break even or barely win.
-Why This Matters: The scatter plot shows that most orders are low ticket items that collectively deliver almost no profit (or even lose money), while the truly profitable middle cluster is relatively small and the high price orders, we probably spend the most time chasing barely make a difference.
-Business Interpretation:  Basically, selling a bunch of cheap items is killing our margins, while the expensive stuff isn’t profitable enough to make up for it.
+### Insights: 
+This scatter plot segments every order by price per item and total profit, and it’s obvious we have three clear clusters Circle/Square/Addition Symbol. A large red/green cluster on the left with tons of low-price orders that make very minimal profits/losses, a green cloud in the middle making decent profit on mid-price stuff, and then a thin trail of high price orders on the right that mostly break even or barely win.
+### Why This Matters: 
+The scatter plot shows that most orders are low ticket items that collectively deliver almost no profit (or even lose money), while the truly profitable middle cluster is relatively small and the high price orders, we probably spend the most time chasing barely make a difference.
+### Business Interpretation:  
+Basically, selling a bunch of cheap items is killing our margins, while the expensive stuff isn’t profitable enough to make up for it.
 
 
 
 ### Chart 7: Profit and Sales Distribution Across the States
  
-Insights: Okay, so looking at this map, it’s super obvious that almost all the money is coming from just California ($458k) and New York ($311k). Those two alone are crushing it while every other state is basically pocket change. Texas is third with $170k, then there’s a bunch of other states in the $50k–$139k range, but most of the country is either barely breaking even or losing money (all those red/pink states).
-Why This Matters: Basically, the whole company is riding on Cali and NY. If something bad happens in either of those states (new taxes, competition, etc.), profits would be destroyed. Meanwhile, we’re losing money or making almost nothing in 40+ states.
-Business Interpretation: Either we figure out how to make money there or just stop wasting time and money on places that clearly aren’t working.
+### Insights: 
+Okay, so looking at this map, it’s super obvious that almost all the money is coming from just California ($458k) and New York ($311k). Those two alone are crushing it while every other state is basically pocket change. Texas is third with $170k, then there’s a bunch of other states in the $50k–$139k range, but most of the country is either barely breaking even or losing money (all those red/pink states).
+### Why This Matters: 
+Basically, the whole company is riding on Cali and NY. If something bad happens in either of those states (new taxes, competition, etc.), profits would be destroyed. Meanwhile, we’re losing money or making almost nothing in 40+ states.
+### Business Interpretation: 
+Either we figure out how to make money there or just stop wasting time and money on places that clearly aren’t working.
 
 
 
@@ -146,5 +161,3 @@ Part 5: Project Conclusions
 5.	Tiny orders kill profit
 ### Reflection: 
 This project was way more real world than I expected. Spent forever cleaning data, but once that was done everything was easy. Tableau went from I don’t know what I’m doing to second nature. The best part was seeing six figure profit leaks pop out in minutes just by navigating the data right. Honestly this is the first school project that didn’t feel like school, this felt like I built something a company would pay for. Solid preparation for a real job and I’m excited for what’s next.
-
-<img width="432" height="618" alt="image" src="https://github.com/user-attachments/assets/8a73a43d-a5b4-49d2-880c-5f2e482b9586" />
