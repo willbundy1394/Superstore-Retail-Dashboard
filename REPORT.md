@@ -1,4 +1,4 @@
-### Business Analytics Project Report Template
+### Business Analytics Project Report 
 Will Bundy
 ### Project Title: Business Analytics Project Report For Superstore Retail
 ### Part 1: Business Problem and Objectives
